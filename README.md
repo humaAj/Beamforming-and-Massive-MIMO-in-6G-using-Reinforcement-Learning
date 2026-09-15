@@ -209,7 +209,7 @@ The work provides a foundation for further investigation of **AI-enabled wireles
 
 This repository is intended to document my MS research and provide a high-level overview of the methodology, experimental framework, and selected results.
 
-Some implementation details, datasets, and research materials may not be publicly available because related research is currently being prepared for publication.
+Some implementation details, datasets, and research materials may not be publicly available because related research is currently not published.
 
 ---
 
@@ -229,29 +229,4 @@ Potential directions for extending this research include:
 
 ---
 
-## Author
 
-**Huma Ajmal**
-
-MS Computer Science
-University of Peshawar, Pakistan
-
-### Research Interests
-
-* Artificial Intelligence
-* Machine Learning
-* Deep Reinforcement Learning
-* 5G/6G Wireless Communications
-* Massive MIMO
-* Beamforming
-* Intelligent Beam Management
-* AI-enabled Wireless Networks
-* Healthcare AI
-
----
-
-## Disclaimer
-
-This repository contains research material associated with my Master's research. Results are dependent on the simulation environment, assumptions, parameters, and experimental configuration used in the study.
-
-Please contact the author before using unpublished materials for academic or commercial purposes.
