@@ -1,15 +1,5 @@
-# Beamforming and Massive MIMO in 6G Using Reinforcement Learning
+# Beamforming and Massive MIMO Using Reinforcement Learning
 
-## MS Thesis Research
-
-**Author:** Huma Ajmal
-**Degree:** MS Computer Science
-
-### Research Area
-
-**Artificial Intelligence | Deep Reinforcement Learning | 6G | Massive MIMO | Beamforming | Beam Selection | Wireless Communications**
-
----
 
 ## Overview
 
@@ -169,24 +159,8 @@ The experiments indicate that the reinforcement-learning-based approach can effe
 
 The trained DQN agent was able to select beams corresponding to high signal-strength conditions and demonstrated competitive performance against the evaluated machine learning and baseline approaches.
 
-Under the experimental conditions reported in the thesis, beams with more than **90% of the maximum signal strength** were consistently selected by the optimized agent.
-
-The research also evaluates improvements in RSRP, energy efficiency, spectral efficiency, and throughput.
-
-> **Important:** The reported results are specific to the simulation environment and experimental configuration used in this research and should not be interpreted as universal performance guarantees.
-
 ---
 
-## Research Contributions
-
-The research investigates an AI-based approach to beam management in 6G systems by combining:
-
-* Massive MIMO
-* Beamforming
-* Machine Learning
-* Deep Reinforcement Learning
-* Deep Q-Networks
-* Beam-selection optimization
 
 The work provides a foundation for further investigation of **AI-enabled wireless communication systems and intelligent beam management in 6G networks**.
 
